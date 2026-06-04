@@ -143,20 +143,6 @@ adil_faraz = {
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilFaraz-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github)](https://github.com/AdilFaraz-ML)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdilFaraz-ML&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff)](https://github.com/AdilFaraz-ML)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilFaraz-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8)](https://github.com/AdilFaraz-ML)
-
-</div>
-
----
 
 ## Contribution Graph
 
