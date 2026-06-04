@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Adil%20Faraz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20RAG%20Systems%20%26%20LLM%20Apps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Hi, I'm Adil Faraz
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 adil_faraz = {
@@ -38,7 +38,7 @@ adil_faraz = {
 
 ---
 
-## 🚀 Flagship Projects
+## Flagship Projects
 
 <table>
 <tr>
@@ -146,32 +146,20 @@ adil_faraz = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdilFaraz-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilFaraz-ML&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilFaraz-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github)](https://github.com/AdilFaraz-ML)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdilFaraz-ML&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff)](https://github.com/AdilFaraz-ML)
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilFaraz-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilFaraz-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8)](https://github.com/AdilFaraz-ML)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdilFaraz-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -181,7 +169,7 @@ adil_faraz = {
 
 ---
 
-## 💡 Random Dev Quote
+## Quote
 
 <div align="center">
 
@@ -193,7 +181,7 @@ adil_faraz = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
+---
 
 **Let's build something intelligent together.**
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adil-faraz-b3407a271) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adil.faraz303@email.com)
