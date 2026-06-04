@@ -23,7 +23,7 @@ adil_faraz = {
     "role"        : "AI/ML Engineer",
     "company"     : "Digital Pocket (AI Solutions Consultancy)",
     "location"    : "Lahore, Pakistan 🇵🇰",
-    "education"   : "BSCS — Islamia University of Bahawalpur (2025)",
+    "education"   : "BSCS — Islamia University of Bahawalpur (2022-26)",
     "focus"       : ["RAG Pipelines", "LLM Apps", "AI Agents", "NLP Systems"],
     "certifications": [
         "Associate AI Engineer — DataCamp",
@@ -32,7 +32,6 @@ adil_faraz = {
     "currently_working_on" : "Nexa AI — Production RAG Chatbot serving 200+ users",
     "currently_learning"   : ["LangGraph Multi-Agent Systems", "System Design", "RAGAS Evaluation"],
     "ask_me_about" : ["RAG", "LangChain", "LLMs", "FastAPI", "Pinecone", "Python"],
-    "fun_fact"     : "Built 50+ WordPress & Shopify stores before pivoting to AI 🚀"
 }
 ```
 
@@ -184,6 +183,6 @@ adil_faraz = {
 ---
 
 **Let's build something intelligent together.**
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adil-faraz-b3407a271) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adil.faraz303@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adil-faraz-b3407a271) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adil.faraz303@email.com)
 
 </div>
