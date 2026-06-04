@@ -10,7 +10,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-faraz-b3407a271)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdilFaraz-ML)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adil.faraz303@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=AdilFaraz-ML&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/AdilFaraz-ML)
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/%20Open%20to%20Work-AI%2FML%20Roles-2ea44f?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-1%20Year%20AI%2FML-7928ca?style=flat-square)
+![Location](https://img.shields.io/badge/%20Based%20in-Lahore%2C%20Pakistan-orange?style=flat-square)
+![Building](https://img.shields.io/badge/%20Building-Nexa%20AI-00d4ff?style=flat-square)
+
+<br/>
+
+![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20AI%20Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Spec-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
 </div>
 
@@ -19,8 +32,8 @@
 ## About Me
 
 ```python
-adil_faraz = {
-    "role"        : "AI/ML Engineer",
+Adil_Faraz = {
+    "role"        : "AI Engineer",
     "company"     : "Digital Pocket (AI Solutions Consultancy)",
     "location"    : "Lahore, Pakistan 🇵🇰",
     "education"   : "BSCS — Islamia University of Bahawalpur (2022-26)",
@@ -31,7 +44,7 @@ adil_faraz = {
     ],
     "currently_working_on" : "Nexa AI — Production RAG Chatbot serving 200+ users",
     "currently_learning"   : ["LangGraph Multi-Agent Systems", "System Design", "RAGAS Evaluation"],
-    "ask_me_about" : ["RAG", "LangChain", "LLMs", "FastAPI", "Pinecone", "Python"],
+    "ask_me_about" : ["RAG", "LangChain", "LLMs", "FastAPI", "Pinecone", "Python", "LangGraph", "HuggingFace"],
 }
 ```
 
@@ -95,7 +108,7 @@ adil_faraz = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -106,6 +119,7 @@ adil_faraz = {
 **AI / ML / LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -143,6 +157,8 @@ adil_faraz = {
 
 </div>
 
+---
+
 
 ## Contribution Graph
 
@@ -154,7 +170,7 @@ adil_faraz = {
 
 ---
 
-## Quote
+## Developer's Quote
 
 <div align="center">
 
@@ -166,9 +182,8 @@ adil_faraz = {
 
 <div align="center">
 
----
-
 **Let's build something intelligent together.**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adil-faraz-b3407a271) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adil.faraz303@email.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adil-faraz-b3407a271) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adil.faraz303@gmail.com)
 
 </div>
