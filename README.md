@@ -4,8 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%F0%9F%A4%96;RAG+Pipeline+Architect+%F0%9F%94%97;LLM+App+Developer+%F0%9F%A7%A0;Production+AI+Systems+Builder+%F0%9F%9A%80;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Pinecone)]
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;RAG+Pipeline+Architect;LLM+App+Developer;Production+AI+Systems+Builder;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Pinecone)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-faraz-b3407a271)
