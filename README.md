@@ -81,6 +81,19 @@ Adil_Faraz = {
 <tr>
 <td width="50%">
 
+### 🛒 [FrugalOS](https://frugalos.vercel.app)
+> Secondhand Reselling Operations Platform
+
+- 🏗️ Full-stack build from scratch in **7 days**
+- 📦 **Dropbox API** integration for asset management
+- 🤖 AI listing engine powered by **Groq / OpenRouter**
+- 📤 Automated **Shopify / Vendoo** CSV export
+- ⚡ Built with **Next.js + Supabase**
+- 🚀 Deployed on **Vercel**
+
+</td>
+<td width="50%">
+
 ### 📝 [Quiz App](https://github.com/AdilFaraz-ML/Quiz-App)
 > AI-Powered Assessment Platform
 
@@ -90,6 +103,8 @@ Adil_Faraz = {
 - 📊 Scores, correct answers & weak-topic analysis
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📂 [DocuSort](https://github.com/AdilFaraz-ML/DocuSort)
@@ -99,6 +114,9 @@ Adil_Faraz = {
 - 🔍 Classifies & extracts structured data
 - 📤 Outputs clean **JSON format**
 - ⚙️ End-to-end document intelligence pipeline
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
